@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'Gordita';
+  src: local('Gordita Light'),
+       local('Gordita-Light'),
+       url('fonts/Gordita/Gordita-Light.woff2') format('woff2'),
+       url('fonts/Gordita/Gordita-Light.woff') format('woff');
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'Gordita';
+  src: local('Gordita lm'),
+       local('Gordita-lm'),
+       url('fonts/Gordita/Gordita-lm.woff2') format('woff2'),
+       url('fonts/Gordita/Gordita-lm.woff') format('woff');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Gordita';
+  src: local('Gordita Medium'),
+       local('Gordita-Medium'),
+       url('fonts/Gordita/Gordita-Medium.woff2') format('woff2'),
+       url('fonts/Gordita/Gordita-Medium.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Gordita Medium';
+  src: local('Gordita Medium'),
+       local('Gordita-Medium'),
+       url('fonts/Gordita/Gordita-Medium.woff2') format('woff2'),
+       url('fonts/Gordita/Gordita-Medium.woff') format('woff');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Gordita';
+  src: local('Gordita Black'),
+       local('Gordita-Black'),
+       url('fonts/Gordita/gordita-black.woff2') format('woff2'),
+       url('fonts/Gordita/gordita-black.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Maison Neue Mono';
+  src: local('Maison Neue Mono'),
+       local('Maison-Neue-Mono'),
+       url('fonts/Maison-Neue-Mono/Maison-Neue-Mono.woff2') format('woff2'),
+       url('fonts/Maison-Neue-Mono/Maison-Neue-Mono.woff') format('woff');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Noe Display';
+  src: local('Noe Display-Black'),
+       local('Noe-Display-Black'),
+       url('fonts/Noe-Display/noe-display-black.woff2') format('woff2'),
+       url('fonts/Noe-Display/noe-display-black.woff') format('woff'),
+       url('fonts/Noe-Display/noe-display-black.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+}
