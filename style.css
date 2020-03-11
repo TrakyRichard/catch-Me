@@ -3,9 +3,9 @@ body {background-color:#80f2d3;font-family:'Gordita',helvetica neue,helvetica,ar
 
 .overlay {background-color: rgba(243,66,53,0.95);height: 100%; width: 100%;position: fixed; left: 0; top: 0;z-index:1001;display: none;}
 
-.pizza-alert {background-color:rgba(243,66,53,0.95);background-image:url("images/gotcha-alert.png");background-repeat:no-repeat;background-size:400px auto;background-position:center center;height:100%;width:100%;position:fixed;left:0;top:0;z-index:1;display:none;}
+.pizza-alert {background-color:rgba(243,66,53,0.95);background-image:url("images/Felicitation.png");background-repeat:no-repeat;background-size:400px auto;background-position:center center;height:100%;width:100%;position:fixed;left:0;top:0;z-index:1;display:none;}
 
-.pizza {width: 175px;height: 181px;background-image: url('images/pizza.png');background-repeat: no-repeat;position:fixed;}
+.pizza {width: 175px;height: 181px;background-image: url('images/cs.png');background-repeat: no-repeat;position:fixed;}
 
 .small {background-size:75px 75px;width:75px;height:75px;}
 
@@ -50,7 +50,7 @@ body {background-color:#80f2d3;font-family:'Gordita',helvetica neue,helvetica,ar
 	font-weight: 800;
 }
 
-.gotcha {background-image: url('images/gotcha.png');}
+.gotcha {background-image: url('images/Attraper.png');}
 
 .fa-question-circle {z-index:2;font-size:40px;color:#fff;position:fixed;left:0;top:0;padding:30px 20px 30px 30px;cursor:pointer;}
 
